@@ -70,7 +70,7 @@ export function AccountDropdown({ onClose }) {
           fallbackEmoji="🚪"
           fallbackTextClassName="text-sm"
           className="w-4 h-4 shrink-0"
-          imgClassName="w-4 h-4"
+          imgClassName="w-4 h-3"
         />
         Logout
       </button>
